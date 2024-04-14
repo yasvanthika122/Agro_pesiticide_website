@@ -1,17 +1,3 @@
-<h1 align="center">
-    SHOPCART: Ecommerce Site
-</h1>
-
-<h3 align="center">
-Seamless shopping, search and explore different product categories, add products to cart, and checkout swiftly. <br>
-Become a seller and add products, monitor sales, and gather customer feedback.
-</h3>
-
-<br>
-
-[Youtube Video](https://youtu.be/i_z0HYk3IuQ?si=S04-IBq7Ny8k0FYC)
-<br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
 
 # About
 
@@ -45,7 +31,7 @@ ShopCart is an ecommerce site developed using the MERN (MongoDB, Express.js, Rea
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-Ecommerce-Site.git
+
 ```
 Open 2 terminals in separate windows/tabs.
 
